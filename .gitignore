@@ -2,3 +2,4 @@ tf_logs
 tmp
 .ipynb_checkpoints
 MNIST_data
+rl_model
