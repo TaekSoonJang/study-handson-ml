@@ -5,4 +5,5 @@ MNIST_data
 rl_model
 *.ckpt.*
 checkpoint
+datasets
 
